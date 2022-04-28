@@ -25,12 +25,12 @@
 ## Geekbench
 
 - CPU Benchmark
-![](![Screen Shot 2022-04-28 at 18 36 37](https://user-images.githubusercontent.com/75540343/165852281-91b0352d-f9c1-4ae5-962d-af3b00c9d001.png)
+(![Screen Shot 2022-04-28 at 18 36 37](https://user-images.githubusercontent.com/75540343/165852281-91b0352d-f9c1-4ae5-962d-af3b00c9d001.png))
 
 <br/>
 
 - Compute Benchmark
-![](![Screen Shot 2022-04-28 at 18 36 48](https://user-images.githubusercontent.com/75540343/165852454-5f2d87e8-64d7-45be-8315-1169af56ba09.png)
+(![Screen Shot 2022-04-28 at 18 36 48](https://user-images.githubusercontent.com/75540343/165852454-5f2d87e8-64d7-45be-8315-1169af56ba09.png))
 
 <br/>
 <br/>
