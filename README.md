@@ -14,10 +14,10 @@
 | GPU              | Intel UHD Graphics 630 & NVIDIA GeForce® GTX 1650 (Disabled) |
 | Memory           | 2x 2666MHz DDR4 8GB                                          |
 | SSD              | 1x XPG GAMMIX S41 M.2 SSD 512 GB                             |
-| WiFi / BT        | Intel WIFI 6 AX200                                           |
+| WiFi / BT        | Intel WIFI 6 AX200 160MHz                                    |
 | Audio            | Realtek ALC255                                               |
-| Touchpad         | ELAN TECH                                                    |
-| BIOS Version     | ???                                                          |
+| Touchpad         | ELAN (ETDI2C) Version 13.6.14.1                              |
+| BIOS Version     | 3.2                                                          |
 | OpenCore Version | 0.8.0                                                        |
 
 <br/>
