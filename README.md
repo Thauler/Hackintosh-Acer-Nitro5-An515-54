@@ -18,7 +18,7 @@
 | Audio            | Realtek ALC255                                               |
 | Touchpad         | ELAN (ETDI2C) Version 13.6.14.1                              |
 | BIOS Version     | 3.2                                                          |
-| OpenCore Version | 0.8.0                                                        |
+| OpenCore Version | 0.8.4                                                        |
 
 <br/>
 
