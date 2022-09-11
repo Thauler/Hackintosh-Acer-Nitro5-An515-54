@@ -2,7 +2,7 @@
 
 #### Running macOS Monterey 12.5.1
 
-![Screen Shot 2022-04-28 at 18 58 23](https://user-images.githubusercontent.com/75540343/165854898-8bc54fdd-cedf-40eb-b52d-4fe45c6de25c.png)
+![Screen Shot 2022-09-11 at 16 20 00](/public/screenShot.png)
 
 <br/>
 
