@@ -2,7 +2,7 @@
 
 #### Running macOS Monterey 12.5.1
 
-![Screenshot](public/screenShot.png)
+![Screenshot](public/screenshot.png)
 
 <br/>
 
