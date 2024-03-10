@@ -1,6 +1,6 @@
 # Hackintosh-Acer-Nitro5-An515-54
 
-#### Running macOS Monterey 12.5.1
+#### Running macOS Sonoma 14.4
 
 ![Screenshot-MacOS-infos](public/macOS-infos.png)
 
@@ -12,13 +12,13 @@
 | :--------------- | :----------------------------------------------------------- |
 | Processor        | Intel i5-9300H                                               |
 | GPU              | Intel UHD Graphics 630 & NVIDIA GeForce® GTX 1650 (Disabled) |
-| Memory           | 2x 2666MHz DDR4 8GB                                          |
+| Memory           | 24GB                                                         |
 | SSD              | 1x XPG GAMMIX S41 M.2 SSD 512 GB                             |
 | WiFi / BT        | Intel WIFI 6 AX200 160MHz                                    |
 | Audio            | Realtek ALC255                                               |
 | Touchpad         | ELAN (ETDI2C) Version 13.6.14.1                              |
 | BIOS Version     | 3.2                                                          |
-| OpenCore Version | 0.8.4                                                        |
+| OpenCore Version | 0.9.4                                                        |
 
 <br/>
 
@@ -26,13 +26,13 @@
 
 - CPU Benchmark
 
-![CPU Benchmark](public/CPU-benchmark.png)
+![CPU Benchmark]()
 
 <br/>
 
 - Compute Benchmark
 
-![Computer Benchmark](public/computer-benchmark.png)
+![Computer Benchmark]()
 
 <br/>
 <br/>
@@ -41,3 +41,4 @@
 
 - HDMI
 - Nvidia GeForce® GTX 1650
+- On initialization the bright is on low and need to wait until it go to higher.
