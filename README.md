@@ -26,13 +26,13 @@
 
 - CPU Benchmark
 
-![CPU Benchmark]()
+![CPU Benchmark](public/geekbanch-score.png)
 
 <br/>
 
 - Compute Benchmark
 
-![Computer Benchmark]()
+![Computer Benchmark](public/geekbanch-core.png)
 
 <br/>
 <br/>
@@ -41,4 +41,3 @@
 
 - HDMI
 - Nvidia GeForce® GTX 1650
-- On initialization the bright is on low and need to wait until it go to higher.
